@@ -20,6 +20,27 @@ const questions = [
         type: 'input',
         name: 'title',
         message: ' what is the title of your project?'
+    },
+    {
+        type: 'input',
+        name: 'description',
+        message: ' what is the breif description of project?'
+    },
+    {
+        type: 'input',
+        name: 'installation',
+        message: ' what is the process of installation?'
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: ' what is the main usage of project?'
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: ' choose the license for this project?',
+        choices: ["MIT", "NONE"]
     }
 ];
 
