@@ -41,8 +41,14 @@ const questions = [
         name: 'license',
         message: ' choose the license for this project?',
         choices: ["MIT", "NONE"]
-    }
-];
+    },
+    {
+        type: 'list',
+        name: 'for questions',
+        message: ' if you have questions please contact me?',
+        choices: ["https://github.com/veryjohn1991"]
+    },
+ ]
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) { }
