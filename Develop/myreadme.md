@@ -10,9 +10,12 @@
  ![Gmail] (armaanjelly@gmail.com)
 
  # professional readme file.
-A brief description of the project goes here.
+  
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+## Description
+A brief description of the project goes here.
+
 
 ## Table of Contents
 
@@ -21,6 +24,8 @@ A brief description of the project goes here.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [contact](#contact)
+
 
 ## About
 
@@ -41,5 +46,11 @@ Explain how other developers or contributors can contribute to the project. Incl
 ## License
 
 State the license under which the project is released. If applicable, include a link to the license file, or specify any restrictions or permissions associated with the license.
+
+## contact
+
+ [Github link](https://github.com/veryjohn1991) 
+
+ [Gmail] (armaanjelly@gmail.com)
 
 ---
