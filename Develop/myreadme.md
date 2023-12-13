@@ -1,13 +1,3 @@
-# professional readme file.
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
-  ## Description
-  this is my project
- 
- ## For more questions contact me
- ! [Github link](https://github.com/veryjohn1991) 
-
- ![Gmail] (armaanjelly@gmail.com)
 
  # professional readme file.
   
